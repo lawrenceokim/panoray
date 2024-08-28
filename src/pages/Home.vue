@@ -63,19 +63,29 @@
           class="d-flex flex-wrap row less-gutters services-boxes-list box-container"
         >
           <!--box-->
-          <!-- <div class="services-box-item col-12 col-md-3">
-                        <div class="item-content">
-                            <div class="content-holder">
-                                <div class="icon">
-                                    <img src="@/static/images/icons/icon1.webp" width="85" height="85" alt="icon">
-                                </div>
-                                <h3>Fundraising Mastery</h3>
-                                <div class="text">
-                                    <p>Innovators deserve more than just funding—they deserve a catapult into success. Panoray Ventures offers groundbreaking fundraising solutions, connecting visionaries with the resources needed to thrive.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div> -->
+          <div class="services-box-item col-12 col-md-3 container-box">
+            <div class="item-content">
+              <div class="content-holder">
+                <div class="icon">
+                  <img
+                    src="@/static/images/icons/icon1.webp"
+                    width="85"
+                    height="85"
+                    alt="icon"
+                  />
+                </div>
+                <h3>Fundraising Mastery</h3>
+                <div class="text">
+                  <p>
+                    Innovators deserve more than just funding—they deserve a
+                    catapult into success. Panoray Ventures offers
+                    groundbreaking fundraising solutions, connecting visionaries
+                    with the resources needed to thrive.
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
           <!--box-->
           <!--box-->
           <div class="services-box-item col-12 col-md-3 container-box">
@@ -130,7 +140,7 @@
           </div>
           <!--box-->
           <!--box-->
-          <div class="services-box-item col-12 col-md-3 container-box">
+          <!-- <div class="services-box-item col-12 col-md-3 container-box">
             <div class="item-content">
               <div class="content-holder">
                 <div class="icon">
@@ -152,7 +162,7 @@
                 </div>
               </div>
             </div>
-          </div>
+          </div> -->
           <!--box-->
         </div>
       </div>
@@ -384,7 +394,7 @@
               </div>
             </div>
           </div>
-          <div class="event-item box-styled-item col-12 col-md-4">
+          <!-- <div class="event-item box-styled-item col-12 col-md-4">
             <div class="item-content">
               <div class="content-holder">
                 <div class="top-content d-flex flex-wrap">
@@ -461,7 +471,7 @@
                 </div>
               </div>
             </div>
-          </div>
+          </div> -->
         </div>
         <!-- <div class="text-center">
                     <a href="javascript:void(0);" class="section-text-link">View More</a>
